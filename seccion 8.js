@@ -8,15 +8,15 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/tratamientos-dermatologicos-izquierda',
++          href: '/servicios/tratamientos-dermatologicos-izquierda',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/tratamientos-dermatologicos-derecha',
++          href: '/servicios/tratamientos-dermatologicos-derecha',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/menu-de-servicios',
++          href: '/servicios/menu-de-servicios',
 +          title: ''
 +        },
 +        link4: {
@@ -48,19 +48,19 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/rejuvenecimiento',
++          href: '/servicios/rejuvenecimiento',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/reafirmacion-de-la-piel',
++          href: '/servicios/reafirmacion-de-la-piel',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/remocion-cicatrices',
++          href: '/servicios/remocion-cicatrices',
 +          title: ''
 +        },
 +        link14: {
-+          href: 'servicios/agendar-cita',
++          href: '/contacto/agendar-cita',
 +          title: ''
 +        },
 +      },
