@@ -5,7 +5,7 @@
       },
     links: {
       link1: {
-        href: '/nuestro equipo',
+        href: '/nuestro-equipo',
         title: '',
         },
       }
