@@ -7,15 +7,15 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/dermatologia-cosmetica',
++          href: '/servicios/dermatologia-cosmetica',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/dermatologia-clinica',
++          href: '/servicios/dermatologia-clinica',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/tratamientos-dermatologicos',
++          href: '/servicios/tratamientos-dermatologicos',
 +          title: ''
 +        },
 +      },
@@ -142,7 +142,7 @@
 +        },
 +     },
 +
-++  block3: {
++  block3: {
 +    texts: {
 +      text1: 'DERMATOLOGÍA CLÍNICA',
 +      text2: 'En Lasermedica ofrecemos los mejores tratamientos en cuanto dermatología clínica, atendiendo enfermedades que afectan tu piel, ofreciendo su prevención, diagnóstico y tratamiento.',
@@ -239,7 +239,7 @@
 +      },
 +    links: {
 +      link1: {
-+        href: '/contacto/agendar cita,
++        href: '/contacto/agendar-cita,
 +        title: ''
 +        },
 +      link1: {
