@@ -8,15 +8,15 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/dermatologia-clinica-izquierda',
++          href: '/servicios/dermatologia-clinica-izquierda',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/dermatologia-clinica-derecha',
++          href: '/servicios/dermatologia-clinica-derecha',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/menu-de-servicios',
++          href: '/servicios/menu-de-servicios',
 +          title: ''
 +        },
 +        link4: {
@@ -64,59 +64,59 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/acne',
++          href: '/servicios/acne',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/cicatrices-de-acne',
++          href: '/servicios/cicatrices-de-acne',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/melasma',
++          href: '/servicios/melasma',
 +          title: ''
 +        },
 +        link4: {
-+          href: 'servicios/psoriasis',
++          href: '/servicios/psoriasis',
 +          title: ''
 +        },
 +        link5: {
-+          href: 'servicios/vitiligio',
++          href: '/servicios/vitiligio',
 +          title: ''
 +        },
 +        link6: {
-+          href: 'servicios/verrugas-vulgares',
++          href: '/servicios/verrugas-vulgares',
 +          title: ''
 +        },
 +        link7: {
-+          href: 'servicios/fibromas-laxos',
++          href: '/servicios/fibromas-laxos',
 +          title: ''
 +        },
 +        link8: {
-+          href: 'servicios/varices',
++          href: '/servicios/varices',
 +          title: ''
 +        },
 +        link9: {
-+          href: 'servicios/cancer-de-piel',
++          href: '/servicios/cancer-de-piel',
 +          title: ''
 +        },
 +        link10: {
-+          href: 'servicios/alopecia',
++          href: '/servicios/alopecia',
 +          title: ''
 +        },
 +        link11: {
-+          href: 'servicios/rosacea',
++          href: '/servicios/rosacea',
 +          title: ''
 +        },
 +        link12: {
-+          href: 'servicios/hiperhidrosis',
++          href: '/servicios/hiperhidrosis',
 +          title: ''
 +        },
 +        link13: {
-+          href: 'servicios/molusco-contagioso',
++          href: '/servicios/molusco-contagioso',
 +          title: ''
 +        },
 +        link14: {
-+          href: 'servicios/agendar-cita',
++          href: '/contacto/agendar-cita',
 +          title: ''
 +        },
 +      },
