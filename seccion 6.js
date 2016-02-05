@@ -8,15 +8,15 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/dermatologia-cosmetica-izquierda',
++          href: '/dermatologia-cosmetica-izquierda',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/dermatologia-cosmetica-derecha',
++          href: '/dermatologia-cosmetica-derecha',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/menu-de-servicios',
++          href: '/servicios/menu-de-servicios',
 +          title: ''
 +        },
 +        link4: {
@@ -70,83 +70,83 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/depilacion-laser',
++          href: '/servicios/depilacion-laser',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/tratamiento-360',
++          href: '/servicios/tratamiento-360',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/laser-erbium-fraccionado',
++          href: '/servicios/laser-erbium-fraccionado',
 +          title: ''
 +        },
 +        link4: {
-+          href: 'servicios/laser-co2-fraccionado',
++          href: '/servicios/laser-co2-fraccionado',
 +          title: ''
 +        },
 +        link5: {
-+          href: 'servicios/radiofrecuencia',
++          href: '/servicios/radiofrecuencia',
 +          title: ''
 +        },
 +        link6: {
-+          href: 'servicios/ipl-(vasculight)',
++          href: '/servicios/ipl-(vasculight)',
 +          title: ''
 +        },
 +        link7: {
-+          href: 'servicios/escleroterapia-con-laser',
++          href: '/servicios/escleroterapia-con-laser',
 +          title: ''
 +        },
 +        link8: {
-+          href: 'servicios/escleroterapia-inyectada',
++          href: '/servicios/escleroterapia-inyectada',
 +          title: ''
 +        },
 +        link9: {
-+          href: 'servicios/carboxiterapia',
++          href: '/servicios/carboxiterapia',
 +          title: ''
 +        },
 +        link10: {
-+          href: 'servicios/liquid-face-lift',
++          href: '/servicios/liquid-face-lift',
 +          title: ''
 +        },
 +        link11: {
-+          href: 'servicios/rellenos-dermicos',
++          href: '/servicios/rellenos-dermicos',
 +          title: ''
 +        },
 +        link12: {
-+          href: 'servicios/toxina-botulinica',
++          href: '/servicios/toxina-botulinica',
 +          title: ''
 +        },
 +        link13: {
-+          href: 'servicios/mesoterapia-corporal',
++          href: '/servicios/mesoterapia-corporal',
 +          title: ''
 +        },
 +        link14: {
-+          href: 'servicios/mesoterapia-facial',
++          href: '/servicios/mesoterapia-facial',
 +          title: ''
 +        },
 +        link15: {
-+          href: 'servicios/faciales',
++          href: '/servicios/faciales',
 +          title: ''
 +        },
 +        link16: {
-+          href: 'servicios/microdermoabrasion',
++          href: '/servicios/microdermoabrasion',
 +          title: ''
 +        },
 +        link17: {
-+          href: 'servicios/peeling-quimicos',
++          href: '/servicios/peeling-quimicos',
 +          title: ''
 +        },
 +        link18: {
-+          href: 'servicios/laser-q-switched',
++          href: '/servicios/laser-q-switched',
 +          title: ''
 +        },
 +        link19: {
-+          href: 'servicios/plasma-rico-en-plaquetas',
++          href: '/servicios/plasma-rico-en-plaquetas',
 +          title: ''
 +        },
 +        link20: {
-+          href: 'servicios/agendar-cita',
++          href: '/contaco/agendar-cita',
 +          title: ''
 +        },
 +      },
