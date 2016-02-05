@@ -31,91 +31,91 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/depilacion-laser',
++          href: '/servicios/depilacion-laser',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/tratamiento-360',
++          href: '/servicios/tratamiento-360',
 +          title: ''
 +        },
 +        link4: {
-+          href: 'servicios/laser-erbium-fraccionado',
++          href: '/servicios/laser-erbium-fraccionado',
 +          title: ''
 +        },
 +        link5: {
-+          href: 'servicios/laser-co2-fraccionado',
++          href: '/servicios/laser-co2-fraccionado',
 +          title: ''
 +        },
 +        link6: {
-+          href: 'servicios/radiofrecuencia',
++          href: '/servicios/radiofrecuencia',
 +          title: ''
 +        },
 +        link7: {
-+          href: 'servicios/ipl-vasculight',
++          href: '/servicios/ipl-vasculight',
 +          title: ''
 +        },
 +        link8: {
-+          href: 'servicios/terapia-con-laser',
++          href: '/servicios/terapia-con-laser',
 +          title: ''
 +        },
 +        link9: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link10: {
-+          href: 'servicios/escleroterapia-inyectada',
++          href: '/servicios/escleroterapia-inyectada',
 +          title: ''
 +        },
 +        link11: {
-+          href: 'servicios/carboxiterapia',
++          href: '/servicios/carboxiterapia',
 +          title: ''
 +        },
 +        link12: {
-+          href: 'servicios/liquid-face-lift',
++          href: '/servicios/liquid-face-lift',
 +          title: ''
 +        },
 +        link13: {
-+          href: 'servicios/rellenos-dermicos',
++          href: '/servicios/rellenos-dermicos',
 +          title: ''
 +        },
 +        link14: {
-+          href: 'servicios/toxina-botulinica',
++          href: '/servicios/toxina-botulinica',
 +          title: ''
 +        },
 +        link15: {
-+          href: 'servicios/mesoterapia-corporal',
++          href: '/servicios/mesoterapia-corporal',
 +          title: ''
 +        },
 +        link16: {
-+          href: 'servicios/mesoterapia-facial',
++          href: '/servicios/mesoterapia-facial',
 +          title: ''
 +        },
 +        link17: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link18: {
-+          href: 'servicios/faciales',
++          href: '/servicios/faciales',
 +          title: ''
 +        },
 +        link19: {
-+          href: 'servicios/microdermoabrasion',
++          href: '/servicios/microdermoabrasion',
 +          title: ''
 +        },
 +        link20: {
-+          href: 'servicios/peeling-quimicos',
++          href: '/servicios/peeling-quimicos',
 +          title: ''
 +        },
 +        link21: {
-+          href: 'servicios/laser-q-switched',
++          href: '/servicios/laser-q-switched',
 +          title: ''
 +        },
 +        link22: {
-+          href: 'servicios/plasma-rico-en-plaquetas',
++          href: '/servicios/plasma-rico-en-plaquetas',
 +          title: ''
 +       },
 +      },
@@ -152,31 +152,31 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/acne',
++          href: '/servicios/acne',
 +          title: ''
 +        },
 +        link4: {
-+          href: 'servicios/cicatrices-de-acne',
++          href: '/servicios/cicatrices-de-acne',
 +          title: ''
 +        },
 +        link5: {
-+          href: 'servicios/melasma',
++          href: '/servicios/melasma',
 +          title: ''
 +        },
 +        link6: {
-+          href: 'servicios/psoriasis',
++          href: '/servicios/psoriasis',
 +          title: ''
 +        },
 +        link7: {
-+          href: 'servicios/vitiligio',
++          href: '/servicios/vitiligio',
 +          title: ''
 +        },
 +        link8: {
@@ -184,35 +184,35 @@
 +          title: ''
 +        },
 +        link9: {
-+          href: 'servicios/fibromas-laxos',
++          href: '/servicios/fibromas-laxos',
 +          title: ''
 +        },
 +        link10: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link11: {
-+          href: 'servicios/varices',
++          href: '/servicios/varices',
 +          title: ''
 +        },
 +        link12: {
-+          href: 'servicios/cancer-de-piel',
++          href: '/servicios/cancer-de-piel',
 +          title: ''
 +        },
 +        link13: {
-+          href: 'servicios/alopecia',
++          href: '/servicios/alopecia',
 +          title: ''
 +        },
 +        link14: {
-+          href: 'servicios/rosacea',
++          href: '/servicios/rosacea',
 +          title: ''
 +        },
 +        link15: {
-+          href: 'servicios/hiperhidrosis',
++          href: '/servicios/hiperhidrosis',
 +          title: ''
 +        },
 +        link16: {
-+          href: 'servicios/molusco-contagioso',
++          href: '/servicios/molusco-contagioso',
 +          title: ''
 +        },
 +      },
@@ -239,27 +239,27 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link3: {
-+          href: 'servicios/ver-servicios',
++          href: '/servicios/ver-servicios',
 +          title: ''
 +        },
 +        link4: {
-+          href: 'servicios/rejuvenecimiento',
++          href: '/servicios/rejuvenecimiento',
 +          title: ''
 +        },
 +        link5: {
-+          href: 'servicios/reafirmacion-de-la-piel',
++          href: '/servicios/reafirmacion-de-la-piel',
 +          title: ''
 +        },
 +        link6: {
-+          href: 'servicios/remocion-cicatrices',
++          href: '/servicios/remocion-cicatrices',
 +          title: ''
 +        },
 +      },
