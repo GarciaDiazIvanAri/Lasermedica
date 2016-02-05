@@ -8,11 +8,11 @@
 +    },
 +    links: {
 +        link1: {
-+          href: 'servicios/dermatologia-cosmetica-izquierda',
++          href: 'servicios/dermatologia-clinica-izquierda',
 +          title: ''
 +        },
 +        link2: {
-+          href: 'servicios/dermatologia-cosmetica-derecha',
++          href: 'servicios/dermatologia-clinica-derecha',
 +          title: ''
 +        },
 +        link3: {
